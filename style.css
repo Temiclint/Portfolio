@@ -222,6 +222,9 @@ box-shadow: -9px 10px 12px -12px rgba(0,0,0,0.75);
     padding:15px;
     position: relative;
 }
+.h3-projects, .h3-form{
+    color:black;
+}
 .corner{
     width:7px;
     height:7px;
